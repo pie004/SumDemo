@@ -4,7 +4,7 @@ public class Demo {
 
     public static void main(String[] args) {
 
-        int a = 80;
+        int a = 30;
         int b = 20;
         int sum = a + b;
 
